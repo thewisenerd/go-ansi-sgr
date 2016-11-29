@@ -1,0 +1,11 @@
+# built binary
+go-ansi-sgr
+
+# scripts temp
+scripts/css3-color/tmp/*
+
+# kde dolphin errata
+.directory
+
+# vscode settings
+.vscode/*
